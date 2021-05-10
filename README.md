@@ -5,4 +5,4 @@ which in turn sends it to you.
 
 ## Author and License
 
-Written by Ilya Zverev, published under an ISC license.
+Written by Ilya Zverev, published under a MIT license.
